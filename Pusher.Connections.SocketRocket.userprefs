@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pusher.Connections.SocketRocket/WebsocketConnectionFactory.cs">
+    <Files>
+      <File FileName="Pusher.Connections.SocketRocket/WebSocket.cs" Line="8" Column="1" />
+      <File FileName="Pusher.Connections.SocketRocket/WebsocketConnectionFactory.cs" Line="4" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
